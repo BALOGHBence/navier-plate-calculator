@@ -8,5 +8,3 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
-matplotlib = "^3.10.0"
-ipykernel = "^6.29.5"

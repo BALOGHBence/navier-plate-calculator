@@ -2,3 +2,4 @@ python-dotenv
 azure-storage-blob
 azure-identity
 papermill
+dash 
